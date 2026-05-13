@@ -1,4 +1,5 @@
 # hexa-ai
+
 auto bug bounty tool
 
 A powerful command-line interface for security researchers to automate bug bounty hunting.
