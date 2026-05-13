@@ -1,6 +1,5 @@
 # hexa-ai
 auto bug bounty tool
-# Bug Bounty CLI
 
 A powerful command-line interface for security researchers to automate bug bounty hunting.
 
@@ -16,6 +15,6 @@ A powerful command-line interface for security researchers to automate bug bount
 ## Installation
 
 ```bash
-git clone https://github.com/your-repo/bug-bounty-cli.git
-cd bug-bounty-cli
+git clone https://github.com/Dmwsec/hexa-ai.git
+cd hexa-ai
 pip install -r requirements.txt
